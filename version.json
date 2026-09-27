@@ -1,0 +1,15 @@
+{
+  "version": "1.0.0",
+  "download_url": "https://github.com/maxim7798/masik-ai-releases/releases/download/v1.0.0/Масик_ИИ_Установщик.exe",
+  "changelog": [
+    "🎉 Первый релиз Масик ИИ",
+    "💬 Чат с OpenRouter, Gemini, Groq",
+    "🎨 Генерация картинок (Pollinations + Cloudflare)",
+    "🔑 Настройка API-ключей прямо в приложении",
+    "🌍 Мультиязычность (RU/EN)",
+    "⚙ Персонализация цветов",
+    "📤 Экспорт чатов",
+    "⌨ Горячие клавиши",
+    "🔔 Проверка обновлений"
+  ]
+}
