@@ -1,5 +1,5 @@
 {
-  "version": "2.1.0",
+  "version": "2.2.0",
   "download_url": "https://github.com/maxim7798/masik-ai-releases/releases/download/v2.1/Masik_AI_v2.1.0_Setup.exe",
   "changelog": [
     "🧵 Многопоточность — chat_id больше не путается",
