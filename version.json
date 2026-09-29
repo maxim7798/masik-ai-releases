@@ -1,15 +1,13 @@
 {
-  "version": "2.1.0",
-  "download_url": "https://github.com/maxim7798/masik-ai-releases/releases/download/v2.1/Masik_AI_v2.1.0_Setup.exe",
+  "version": "2.2.0",
+  "download_url": "https://github.com/maxim7798/masik-ai-releases/releases/download/v2.2/Masik_AI_v2.2.0_Setup.exe",
   "changelog": [
-    "🧵 Многопоточность — chat_id больше не путается",
-    "🖼️ Картинки не крашат приложение",
-    "⏱️ Аптайм с учётом дней",
-    "🌐 Реальный индикатор сети",
-    "⏩ Перемотка «на 30 секунд»",
-    "🎮 Игровой режим: CS2, Dota 2, PUBG, Fortnite",
-    "🎙️ Wake-word Jarvis",
-    "🎵 Spotify дефолт",
-    "🔄 Авто-загрузка обновлений"
+    "🌤️ Добавлена система погоды",
+    "🌍 Open-Meteo и wttr.in",
+    "⚙️ Выбор погодной платформы в настройках",
+    "🏙️ Город по умолчанию",
+    "📅 Погода на сегодня и завтра",
+    "🔄 Автоматический fallback между погодными сервисами",
+    "🧵 Получение погоды выполняется в отдельном потоке"
   ]
 }
